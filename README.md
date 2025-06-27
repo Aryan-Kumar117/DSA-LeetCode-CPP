@@ -2,7 +2,7 @@
 
 This repository contains my solutions to various **LeetCode** and **DSA** problems, written in **C++**. I'm solving problems to strengthen my understanding of data structures, algorithms, and problem-solving techniques.
 
-## Topics Covered Till Date
+## Topics I hope to cover and more
 
 - Arrays
 - Strings
