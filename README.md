@@ -22,3 +22,7 @@ This repository contains my solutions to various **LeetCode** and **DSA** proble
 - Version Control: `Git`, `GitHub`
 
 ---
+
+## Solutions
+
+All my Solution classes are handwritten by me, with **no code whatsoever from AI**. However, to run test cases on VS Code, I use Github Copilot to quickly run test cases. 
