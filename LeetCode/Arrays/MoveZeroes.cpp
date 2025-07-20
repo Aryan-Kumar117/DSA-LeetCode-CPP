@@ -20,7 +20,10 @@ public:
         }
     }
 };
-
+/*
+O(n) time complexity and O(1) space complexity.
+Used two pointer approach to swap and solve.
+*/
 int main() {
     Solution sol;
     vector<int> nums = {0, 1, 0, 3, 12};
